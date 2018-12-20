@@ -1,2 +1,2 @@
 # Computational-Statistics
-Coursework from STAT 344: Computational Statistics
+Topics in Computational Statistics
